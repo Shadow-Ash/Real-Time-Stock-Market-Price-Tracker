@@ -1,1 +1,1 @@
-# -Capital-Bull-Real-Time-Stock-Market-Price-Tracker
+Real-Time-Stock-Market-Price-Tracker
